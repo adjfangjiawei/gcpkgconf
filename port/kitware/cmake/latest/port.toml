@@ -1,0 +1,13 @@
+[[packages.packages]]
+ref = 'v4.2.0-rc1'
+url = 'https://gitlab.kitware.com/cmake/cmake.git'
+
+[[build_configs]]
+build = []
+configure = []
+install = []
+post_build = []
+post_install = []
+pre_build = []
+pre_configure = []
+pre_install = []

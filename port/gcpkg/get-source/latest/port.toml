@@ -1,0 +1,2 @@
+install = [""]
+dependencies = ["wget-source@gcpkg@latest"]
