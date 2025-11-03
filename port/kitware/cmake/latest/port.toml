@@ -4,4 +4,4 @@ url = 'https://gitlab.kitware.com/cmake/cmake.git'
 
 [[build_configs]]
 build_system = "makefiles"
-dependencies = ["gnu@make@latest"]
+dependencies = ["make@gnu@latest"]
