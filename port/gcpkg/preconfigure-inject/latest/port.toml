@@ -1,0 +1,7 @@
+[[build_configs]]
+inject = [
+    { type = "pre_configure", command = [
+        "inner_download ${url}",
+        "inner_decompress ${last_file}",
+    ] },
+]
